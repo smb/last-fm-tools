@@ -1,7 +1,7 @@
 last-fm-tools
 =============
 
-1. 
+#1: 
 - compile 
 - get last.fm api key here: 
 http://www.last.fm/api/accounts 
@@ -10,7 +10,7 @@ http://www.last.fm/api/accounts
 
 or.
 
-2. 
+#2:
 - ask me to send you the binary
  
 result:
