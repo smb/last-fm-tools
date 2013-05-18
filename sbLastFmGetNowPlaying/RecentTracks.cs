@@ -66,5 +66,8 @@ public class Recenttracks
 public class RootObject
 {
     public Recenttracks recenttracks { get; set; }
+    public string error { get; set; }
+    public string message { get; set; }
+    public List<string> links { get; set; }
 }
 }
